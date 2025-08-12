@@ -1,0 +1,15 @@
+# deps & builds
+node_modules/
+dist/
+build/
+.out/
+.next/
+.vite/
+coverage/
+
+# env & editor
+.env
+*.log
+.DS_Store
+.vscode/
+.idea/
